@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5005a93-8b42-47f2-9a3a-e6d84e4622f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/16dd4e86-9db1-4125-bcfc-a1aed1d1eef3_Simple-TodoList-App-master.zip.ef3/Simple-TodoList-App-master/app/src/main/java/com/example/emmanueladjeidanso/simpletodo/EditItemActivity.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/554db349-b562-4bc5-bbc3-c305ecb90c0e_Simple-TodoList-App-master.zip.c0e/Simple-TodoList-App-master/app/src/androidTest/java/com/example/arafatm/simpletodo/ExampleInstrumentedTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/645c0245-c302-425a-938c-3b91a12c36cb_Simple-TodoList-App-master.zip.6cb/Simple-TodoList-App-master/app/src/test/java/com/example/arafatm/simpletodo/ExampleUnitTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/6d9cdf6c-2f0e-40a9-a697-7161f9d377f2_Simple-TodoList-App-master.zip.7f2/Simple-TodoList-App-master/app/src/test/java/com/example/arafatm/simpletodo/ExampleUnitTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/74599ead-3bbf-4907-91a5-809852ac6048_Simple-TodoList-App-master.zip.048/Simple-TodoList-App-master/app/src/main/java/com/example/emmanueladjeidanso/simpletodo/MainActivity.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Xdpsj2o7RloCOEzZLYaYvcrPKQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/adjei/IdeaProjects/STdo/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5005a93-8b42-47f2-9a3a-e6d84e4622f0" name="Changes" comment="" />
+      <created>1698969020629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698969020629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
